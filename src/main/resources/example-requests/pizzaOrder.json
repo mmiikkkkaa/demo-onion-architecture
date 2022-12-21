@@ -1,0 +1,10 @@
+{
+  "pizzas" : [ {
+    "base" : "GLUTEN_FREE",
+    "toppings" : [ "Tomato", "Garlic", "Pineapple" ],
+    "specials" : [ "WITHOUT_CRUST", "CUT" ],
+    "allergensToAvoid" : [ "GLUTEN", "NUTS" ]
+  } ],
+  "customerName" : "Batman",
+  "address" : null
+}
