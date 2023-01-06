@@ -1,4 +1,4 @@
-package com.example.architecturedemo.healthypizza.infrastructure.persistance;
+package com.example.architecturedemo.healthypizza.infrastructure.persistence;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

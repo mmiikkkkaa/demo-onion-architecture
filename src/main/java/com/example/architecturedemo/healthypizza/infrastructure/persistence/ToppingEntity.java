@@ -1,4 +1,4 @@
-package com.example.architecturedemo.healthypizza.infrastructure.persistance;
+package com.example.architecturedemo.healthypizza.infrastructure.persistence;
 
 import java.math.BigDecimal;
 import java.util.List;

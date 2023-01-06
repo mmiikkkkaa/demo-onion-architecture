@@ -1,4 +1,4 @@
-package com.example.architecturedemo.healthypizza.infrastructure.persistance;
+package com.example.architecturedemo.healthypizza.infrastructure.persistence;
 
 import java.util.Set;
 import java.util.stream.Collectors;
@@ -11,7 +11,7 @@ import com.example.architecturedemo.healthypizza.application.pizza.ToppingServic
 import com.example.architecturedemo.healthypizza.domain.model.pizza.Topping;
 
 @Service
-public class JpaToppingService implements ToppingService {
+public class ToppingServiceStub implements ToppingService {
 
     @Autowired
     private ToppingRepo toppingRepo;
