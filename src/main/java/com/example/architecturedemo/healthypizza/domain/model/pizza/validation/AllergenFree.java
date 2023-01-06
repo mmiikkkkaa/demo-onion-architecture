@@ -1,4 +1,4 @@
-package com.example.architecturedemo.healthypizza.domain.model.pizza;
+package com.example.architecturedemo.healthypizza.domain.model.pizza.validation;
 
 import java.lang.annotation.Documented;
 import java.lang.annotation.ElementType;

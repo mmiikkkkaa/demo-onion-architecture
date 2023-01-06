@@ -9,6 +9,8 @@ import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;
 
 import com.example.architecturedemo.healthypizza.domain.model.money.Amount;
+import com.example.architecturedemo.healthypizza.domain.model.pizza.validation.AllergenFree;
+import com.example.architecturedemo.healthypizza.domain.model.pizza.validation.NonConflictingCrustChoices;
 import lombok.Builder;
 import lombok.Value;
 

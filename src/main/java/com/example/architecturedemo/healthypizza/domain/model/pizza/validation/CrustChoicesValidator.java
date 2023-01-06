@@ -1,4 +1,6 @@
-package com.example.architecturedemo.healthypizza.domain.model.pizza;
+package com.example.architecturedemo.healthypizza.domain.model.pizza.validation;
+
+import com.example.architecturedemo.healthypizza.domain.model.pizza.Specials;
 
 import java.util.Set;
 
